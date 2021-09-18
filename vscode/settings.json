@@ -1,0 +1,76 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "GitHub Dark",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.rulers": [80],
+    "editor.tabSize": 2,
+    "editor.fontSize": 11,
+    "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.formatOnPaste": false,
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.inlineSuggest.enabled": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "vue"
+    ],
+    "files.exclude": {
+        "**/.git": false
+    },
+    "vetur.dev.vlsPath": "/Users/euaaaio/Code/euaaaio/vetur/server",
+    "vetur.format.options.tabSize": 2,
+    "vetur.format.options.useTabs": true,
+    "vetur.validation.templateProps": true,
+    "vetur.completion.stylusSeparator": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.welcomePage.hiddenCategories": [
+        "Setup",
+        "Beginner"
+    ],
+    "files.associations": {
+        "*.svg": "html",
+        "*.sss": "stylus"
+    },
+    "breadcrumbs.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": 1,
+    "emmet.preferences": {
+        "stylus.propertyEnd": "",
+        "stylus.valueSeparator": ": "
+    },
+    "stylelint.validate": [
+        "css",
+        "html",
+        "javascript",
+        "javascriptreact",
+        "less",
+        "markdown",
+        "postcss",
+        "sass",
+        "scss",
+        "source.css.styled",
+        "source.markdown.math",
+        "styled-css",
+        "sugarss",
+        "svelte",
+        "typescript",
+        "typescriptreact",
+        "vue",
+        "vue-html",
+        "vue-postcss",
+        "xml",
+        "xsl",
+        "stylus"
+    ]
+}
