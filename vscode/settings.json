@@ -26,7 +26,6 @@
     "files.exclude": {
         "**/.git": false
     },
-    "vetur.dev.vlsPath": "/Users/euaaaio/Code/euaaaio/vetur/server",
     "vetur.format.options.tabSize": 2,
     "vetur.format.options.useTabs": true,
     "vetur.validation.templateProps": true,
