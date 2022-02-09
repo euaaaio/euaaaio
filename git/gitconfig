@@ -1,0 +1,16 @@
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/euaaaio/.gitignore
+	editor = code --wait
+[commit]
+	gpgsign = true
+[user]
+	name = Eduard Aksamitov
+	email = e@edaks.co
+	signingkey = 8A9672CCF19975E6
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
