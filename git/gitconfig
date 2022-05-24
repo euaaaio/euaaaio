@@ -2,7 +2,7 @@
 	defaultBranch = main
 [core]
 	excludesfile = /Users/euaaaio/.gitignore
-	editor = code --wait
+	editor = code-insiders --wait
 [commit]
 	gpgsign = true
 [user]
