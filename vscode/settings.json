@@ -8,7 +8,7 @@
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
 
-    "editor.rulers": [80],
+    "editor.rulers": [80, 120],
     "editor.tabSize": 2,
     "editor.fontSize": 11,
     "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
