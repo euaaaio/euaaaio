@@ -26,9 +26,6 @@
     "git.enableSmartCommit": true,
 
     "volar.autoCompleteRefs": false,
-    "vetur.format.options.tabSize": 2,
-    "vetur.format.options.useTabs": true,
-    "vetur.validation.templateProps": true,
 
     "npm.validate.enable": false,
     "diffEditor.ignoreTrimWhitespace": false,
