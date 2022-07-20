@@ -52,5 +52,28 @@
         "vue",
         "stylus",
         "postcss"
+    ],
+    "cSpell.userWords": [
+        "Aksamitov",
+        "autoload",
+        "Eduard",
+        "fullname",
+        "Kazimir",
+        "logux",
+        "Malevich",
+        "marilynmanson",
+        "middlewares",
+        "nanodelay",
+        "pino",
+        "pnpm",
+        "popova",
+        "postanu",
+        "Refable",
+        "rozanova",
+        "subprotocol",
+        "suetin",
+        "Suprematist",
+        "suspensible",
+        "Thelema"
     ]
 }
