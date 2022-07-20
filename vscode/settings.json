@@ -31,6 +31,9 @@
     "vsicons.dontShowNewVersionMessage": true,
     "security.workspace.trust.untrustedFiles": "open",
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    }
     "eslint.validate": [
         "javascript",
         "javascriptreact",
