@@ -27,7 +27,6 @@
 
     "volar.autoCompleteRefs": false,
 
-    "npm.validate.enable": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "vsicons.dontShowNewVersionMessage": true,
     "security.workspace.trust.untrustedFiles": "open",
