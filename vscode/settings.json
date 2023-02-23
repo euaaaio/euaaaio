@@ -1,5 +1,4 @@
 {
-    "window.zoomLevel": 1,
     "breadcrumbs.enabled": false,
 
     "workbench.iconTheme": "vscode-icons",
@@ -19,21 +18,20 @@
     "editor.renderWhitespace": "all",
     "editor.suggestSelection": "recentlyUsedByPrefix",
     "editor.inlineSuggest.enabled": true,
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
 
     "git.autofetch": true,
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
 
     "volar.autoCompleteRefs": false,
-
     "diffEditor.ignoreTrimWhitespace": false,
     "vsicons.dontShowNewVersionMessage": true,
     "security.workspace.trust.untrustedFiles": "open",
     "javascript.updateImportsOnFileMove.enabled": "always",
     "[vue]": {
         "editor.defaultFormatter": "Vue.volar"
-    }
+    },
     "eslint.validate": [
         "javascript",
         "javascriptreact",
@@ -52,31 +50,46 @@
     },
     "stylelint.validate": [
         "css",
+        "less",
+        "sass",
         "vue",
-        "stylus",
         "postcss"
     ],
     "cSpell.userWords": [
         "Aksamitov",
+        "antfu",
         "autoload",
+        "autoposting",
+        "camelcase",
+        "composables",
         "Eduard",
         "fullname",
         "Kazimir",
+        "labelledby",
         "logux",
         "Malevich",
         "marilynmanson",
         "middlewares",
         "nanodelay",
+        "nanostores",
         "pino",
         "pnpm",
         "popova",
         "postanu",
         "Refable",
         "rozanova",
+        "scroller",
+        "styl",
+        "stylelint",
         "subprotocol",
         "suetin",
         "Suprematist",
         "suspensible",
-        "Thelema"
+        "Thelema",
+        "vercel",
+        "vitepress",
+        "vuedraggable",
+        "vueuse",
+        "wouter"
     ]
 }
